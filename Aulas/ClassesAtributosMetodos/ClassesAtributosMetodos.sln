@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula01ClassesAtributosMetodos", "Aula01ClassesAtributosMetodos\Aula01ClassesAtributosMetodos.csproj", "{F23239FC-D1E1-461C-86AF-D513A45BF354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula02ClassesAtributosMetodos", "Aula02ClassesAtributosMetodos\Aula02ClassesAtributosMetodos.csproj", "{975CD1AE-5EA2-41C8-B3AB-50EF91159C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F23239FC-D1E1-461C-86AF-D513A45BF354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23239FC-D1E1-461C-86AF-D513A45BF354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23239FC-D1E1-461C-86AF-D513A45BF354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23239FC-D1E1-461C-86AF-D513A45BF354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975CD1AE-5EA2-41C8-B3AB-50EF91159C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975CD1AE-5EA2-41C8-B3AB-50EF91159C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975CD1AE-5EA2-41C8-B3AB-50EF91159C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975CD1AE-5EA2-41C8-B3AB-50EF91159C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E72A8A76-6555-4DF5-A199-6B03A201A7A9}
+	EndGlobalSection
+EndGlobal
