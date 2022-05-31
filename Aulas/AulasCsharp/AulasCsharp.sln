@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula04ClassesAtributosMetod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula05ClassesAtributosMetodos", "Aula05ClassesAtributosMetodos\Aula05ClassesAtributosMetodos.csproj", "{0403BCC2-B6C6-470A-9ED2-55F2EADF5000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula03ClassesAtributosMetodos", "Aula03ClassesAtributosMetodos\Aula03ClassesAtributosMetodos.csproj", "{0B10054F-DD68-408B-832F-AF5CA9A03884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula03ClassesAtributosMetodos", "Aula03ClassesAtributosMetodos\Aula03ClassesAtributosMetodos.csproj", "{0B10054F-DD68-408B-832F-AF5CA9A03884}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula06ClassesAtributosMetodos", "Aula06ClassesAtributosMetodos\Aula06ClassesAtributosMetodos.csproj", "{E545E3AB-147A-4101-8001-05ED7D8E563A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula07MembrosEstaticos", "Aula07MembrosEstaticos\Aula07MembrosEstaticos.csproj", "{A7CA0E68-9553-48CF-A42B-4A362116BB50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula08ExercicioDeFixacao", "Aula08ExercicioDeFixacao\Aula08ExercicioDeFixacao.csproj", "{3C998A32-B3C4-4D4B-9D2F-AEE41C18F853}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{0B10054F-DD68-408B-832F-AF5CA9A03884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B10054F-DD68-408B-832F-AF5CA9A03884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B10054F-DD68-408B-832F-AF5CA9A03884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E545E3AB-147A-4101-8001-05ED7D8E563A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E545E3AB-147A-4101-8001-05ED7D8E563A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E545E3AB-147A-4101-8001-05ED7D8E563A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E545E3AB-147A-4101-8001-05ED7D8E563A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7CA0E68-9553-48CF-A42B-4A362116BB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CA0E68-9553-48CF-A42B-4A362116BB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CA0E68-9553-48CF-A42B-4A362116BB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CA0E68-9553-48CF-A42B-4A362116BB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C998A32-B3C4-4D4B-9D2F-AEE41C18F853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C998A32-B3C4-4D4B-9D2F-AEE41C18F853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C998A32-B3C4-4D4B-9D2F-AEE41C18F853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C998A32-B3C4-4D4B-9D2F-AEE41C18F853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
