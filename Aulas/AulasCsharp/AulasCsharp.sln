@@ -33,7 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula14ExercicioMatrizes", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula15ExercicioMatrizes", "Aula15ExercicioMatrizes\Aula15ExercicioMatrizes.csproj", "{09A97554-9DA1-4610-995E-F625375E7CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula16ExercicioEnumComposicao", "Aula16ExercicioEnumComposicao\Aula16ExercicioEnumComposicao.csproj", "{7E399D80-C17E-430D-B2BF-88E19E4F0602}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula16ExercicioEnumComposicao", "Aula16ExercicioEnumComposicao\Aula16ExercicioEnumComposicao.csproj", "{7E399D80-C17E-430D-B2BF-88E19E4F0602}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula17ExercicioHerancaEPolimorfismo", "Aula17ExercicioHerancaEPolimorfismo\Aula17ExercicioHerancaEPolimorfismo.csproj", "{46B4BA40-F8F1-4745-AA71-B638AEAA67F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula18ExercicioHerancaEPolimorfismo", "Aula18ExercicioHerancaEPolimorfismo\Aula18ExercicioHerancaEPolimorfismo.csproj", "{BCCA6DE3-C4DB-41FD-BE70-6C91CD4DF99B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{7E399D80-C17E-430D-B2BF-88E19E4F0602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E399D80-C17E-430D-B2BF-88E19E4F0602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E399D80-C17E-430D-B2BF-88E19E4F0602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B4BA40-F8F1-4745-AA71-B638AEAA67F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B4BA40-F8F1-4745-AA71-B638AEAA67F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B4BA40-F8F1-4745-AA71-B638AEAA67F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B4BA40-F8F1-4745-AA71-B638AEAA67F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCA6DE3-C4DB-41FD-BE70-6C91CD4DF99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCA6DE3-C4DB-41FD-BE70-6C91CD4DF99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCA6DE3-C4DB-41FD-BE70-6C91CD4DF99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCA6DE3-C4DB-41FD-BE70-6C91CD4DF99B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
